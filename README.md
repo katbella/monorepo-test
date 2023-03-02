@@ -10,6 +10,8 @@
 
 `yarn workspace vite-storybook-test storybook`
 
+![image](https://user-images.githubusercontent.com/1796175/222370642-100f66e6-e38d-4eca-8057-522a4396d6c2.png)
+
 ### Issues
 
 * Interface export isn't working 100%, so prop documentation is not showing up and I was too tired to troubleshoot it
